@@ -1,5 +1,5 @@
 git init
-git remote add origin https://github.com/jouwgebruikersnaam/chatbot-beat.git
+git remote add origin https://github.com/JasperBevernage87/chatbot-beat.git
 git add .
 git commit -m "initiële upload"
 git push -u origin master
